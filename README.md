@@ -50,7 +50,12 @@ Tendo em vista que o objetivo do problema é prever cancelamentos da base de cli
 
 A precisão de 91,18% indica que existiria um potencial de evitar 91,18% dos cancelamentos. Os demais resultados podem são mostrados abaixo:
 
-![image](https://user-images.githubusercontent.com/74143810/208733688-096b1155-664e-4100-aa25-1832fa4cb696.png)
+| Modelo              | Acurácia | Precisão | Recall | F1 Score |
+| ------------------- | -------- | -------- | ------ | -------- | 
+| Decision Tree       | 0.898    | 0.661    | 0.712  | 0.685    |
+| Regressão Logística | 0.858    | 0.646    | 0.199  | 0.304    |
+| Random Forest       | 0.934    | 0.917    |	0.635  |	0.750   |
+
 
 
 ### 3. Conclusões
