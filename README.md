@@ -48,7 +48,9 @@ Por outro lado, os modelos de Decision Tree e Random Forest foram melhores, com 
 
 Tendo em vista que o objetivo do problema é prever cancelamentos da base de clientes para que fosse possível tomar medidas para evitar tais cancelamentos, o modelo com maior precisão deveria ser escolhido - sendo este, então, o Random Forest.
 
-A precisão de 91,18% indica que existiria um potencial de evitar 91,18% dos cancelamentos. 
+A precisão de 91,18% indica que existiria um potencial de evitar 91,18% dos cancelamentos. Os demais resultados podem são mostrados abaixo:
+![image](https://user-images.githubusercontent.com/74143810/208733688-096b1155-664e-4100-aa25-1832fa4cb696.png)
+
 
 ### 3. Conclusões
 
