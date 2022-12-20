@@ -62,7 +62,7 @@ A precisão de 91,18% indica que existiria um potencial de evitar 91,18% dos can
 
 Para entender os impactos no negócio que o modelo de previsão poderia gerar, foram considerados os cenários pessimista, realista e otimista. Esses cenários foram baseados na quantidade de cancelamentos que poderiam ser evitados, uma vez que dar maior atenção aos clientes mais suscetíveis a cancelar pode ser uma maneira de evitar o churn.
 
-No cenário otimista, em que seria possível evitar 20% dos cancelamentos, o LTV poderia crescer em 22,5%. No realista, onde seria possível evitar 50% dos cancelamentos, o LTV teria o potencial de crescer 84,6%. No otimista, considerando evitar 70% dos cancelamentos, existiria o potencial de aumentar o LTV em até 179,2%. Para todos os cenários, o ARPU foi considerado constante.
+No cenário otimista, em que seria possível evitar 20% dos cancelamentos previstos, o LTV poderia crescer em 22,5%. No realista, onde seria possível evitar 50% dos cancelamentos previstos, o LTV teria o potencial de crescer 84,6%. No otimista, considerando evitar 70% dos cancelamentos previstos, existiria o potencial de aumentar o LTV em até 179,2%. Para todos os cenários, o ARPU foi considerado constante.
 
 Uma sugestão de trabalhos futuros seria a aplicação do modelo em bases de clientes ativos desta mesma empresa ou utilizar a mesma lógica para outros modelos de assinatura, como streaming de vídeo/áudio, software ou serviços.
 
